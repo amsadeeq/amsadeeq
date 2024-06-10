@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/abmusadeeq" target="blank"><img src="https://img.shields.io/twitter/follow/abmusadeeq?logo=twitter&style=for-the-badge" alt="abmusadeeq" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce platform**
+- 🔭 I’m currently working on **E-commerce platforms & Football Tournaments Website**
 
 - 🌱 I’m currently learning **ReactJs, Node.Js, Flutter Dart, MongoDB**
 
@@ -18,9 +18,9 @@
 
 - 🤝 I’m looking for help with **Master Degree projects**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Mobile Application (Android & iOS), and Data Science**
 
-- 📫 How to reach me **abmusadeeq@gmail.com**
+- 📫 How to reach me **abmusadeeq@gmail.com, sadiq-20@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
