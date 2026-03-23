@@ -181,5 +181,5 @@
 </p>
 
 <p align="center">
-  <i>PhD Researcher @ UTM | Innovating at the intersection of Human Reasoning and Artificial Intelligence.</i>
+  <i>Innovating at the intersection of Human Reasoning and Artificial Intelligence.</i>
 </p>
