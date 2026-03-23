@@ -51,7 +51,7 @@
 
 ## The AI Lifecycle Tech Stack
 
-### ** Intelligence & Reasoning**
+###  Intelligence & Reasoning
 <p align="left">
   <img src="https://img.shields.io/badge/GenAI-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_AI-LangGraph-000000?style=for-the-badge&logo=ai&logoColor=white" />
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Explainable_AI-XAI-blue?style=for-the-badge" />
 </p>
 
-### ** Vision, NLP & Data Engine**
+###  Vision, NLP & Data Engine
 <p align="left">
   <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-VGG16%20%7C%20CNN-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Analytics-Power%20BI%20%7C%20Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### ** Production & MLOps**
+###  Production & MLOps
 <p align="left">
   <img src="https://img.shields.io/badge/Cloud-AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -135,22 +135,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-###  Weekly Coding Activity
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amsadeeq&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
-</p>
-
----
-
 ##  Highlighted Projects
 
-* **🤖 Agentic AI Ecosystem**: Built an autonomous agent suite using **n8n, LangChain, and LangGraph** for real-time news summarization and automated KPI reporting.
-* **🏥 Healthcare Vision**: Developed a **VGG16-based** Chest X-Ray classification system with 91% accuracy, featuring a real-time **Streamlit** dashboard.
-* **📄 Research RAG Assistants**: Scaled multiple RAG applications (ChartScholar, ResearchRagChat) using **LlamaIndex and FAISS** on AWS EC2.
-* **📱 Urmall.ng**: Architected a scalable e-commerce solution using the **MERN stack and Flutter** with integrated payment gateways.
-
----
+* Explainable AI (XAI): Researching causal frameworks for faithful evidence grounding in Computer Vision models.
+* Agentic Workflows: Designing autonomous systems that utilise tool-calling and LLMs to automate complex KPI reporting.
+* Production ML: Implementing robust MLOps pipelines (Docker, Kubernetes) to transition models from experiments to operational services.
+* Agentic AI Ecosystem: Built an autonomous agent suite using **n8n, LangChain, and LangGraph** for real-time news summarisation and automated KPI reporting.
+* Healthcare Vision: Developed a **VGG16-based** Chest X-Ray classification system with 91% accuracy, featuring a real-time **Streamlit** dashboard.
+* Research RAG Assistants: Scaled multiple RAG applications (ChartScholar, ResearchRagChat) using **LlamaIndex and FAISS** on AWS EC2.
+* Urmall.ng: Architected a scalable e-commerce solution using the **MERN stack and Flutter** with integrated payment gateways.
 
 ---
 
@@ -163,6 +156,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsadeeq&theme=tokyonight" width="825px" alt="GitHub Streak" />
+</p>
+
+###  Weekly Coding Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amsadeeq&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
 ---
