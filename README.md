@@ -49,6 +49,39 @@
 
 ---
 
+## 🛠️ The AI Lifecycle Tech Stack
+
+### **🧠 Intelligence & Reasoning**
+<p align="left">
+  <img src="https://img.shields.io/badge/GenAI-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-LangGraph-000000?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-LlamaIndex-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Grok%20%7C%20Llama3.5-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Explainable_AI-XAI-blue?style=for-the-badge" />
+</p>
+
+### **👁️ Vision, NLP & Data Engine**
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-VGG16%20%7C%20CNN-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Sentiment_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-Pandas%20%7C%20NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics-Power%20BI%20%7C%20Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### **🚀 Production & MLOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud-AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ops-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+---
+
 ## Technical Ecosystem
 
 ### AI, Data Science & Machine Learning
