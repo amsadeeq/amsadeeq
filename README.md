@@ -48,6 +48,35 @@
 </table>
 
 ---
+---
+
+##  Academic Evolution & Research Roadmap
+
+> From a First-Class foundation in Computer Science to cutting-edge Doctoral research in Explainable AI (XAI), my journey is defined by a commitment to technical excellence and academic rigour.
+
+###  Current Milestone: PhD in Computer Science
+* **Institution:** Universiti Teknologi Malaysia (UTM)
+* **Commencement:** March 23, 2025 (Exactly 1 year today!)
+* **Focus Area:** Intersection of **Explainable AI (XAI)** and **Computer Vision**
+* **Core Objective:** Developing frameworks to enhance the transparency and faithfulness of object detection models
+* **Supervisor:** Ts. Dr. Chan Weng Howe
+
+### The Foundation: M.Sc. in Data Science
+* **Institution:** Universiti Teknologi Malaysia (UTM)
+* **Completed:** August 2024
+* **Performance:** **3.65 CGPA** 
+* **Thesis:** *Sentiment Analysis and Rating Prediction of an E-Commerce Platform in Malaysia using CNN and LSTM* 
+* **Impact:** Successfully optimized deep learning models to increase prediction accuracy from **70% to 85%** 
+* **Supervisor:** Prof. Dr Mohd Shahizan bin Othman 
+
+### The Launchpad: B.Sc. in Computer Science
+* **Institution:** Gombe State University, Nigeria 
+* **Completed:** September 2018
+* **Honours:** **First Class Honour (4.54 CGPA)**
+* **Thesis:** *Heuristic Analysis of SQL Injection Attacks on Website Applications* [cite: 64]
+* **Supervisor:** Dr. Adamu Hussaini 
+
+---
 
 ## The AI Lifecycle Tech Stack
 
