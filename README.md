@@ -1,7 +1,8 @@
+# Hi! I'm Abubakar Sadiq Muhammad
+### **PhD Researcher | AI & Machine Learning Engineer | Full-Stack Developer (Web & Mobile)**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsadeeq&label=Profile%20views&color=0e75b6&style=flat" alt="amsadeeq" /> </p>
 ---
-# Abubakar Sadiq Muhammad
-### **PhD Researcher | AI & Machine Learning Engineer | Full-Stack Developer (Web & Mobile)**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineering+%26+Data+Science;Explainable+AI+(XAI)+Researcher;Generative+AI+%26+RAG+Specialist;Full+Stack+MERN+%26+Mobile+Developer;MLOps+%26+Cloud+Architecture" alt="Typing SVG" />
@@ -31,7 +32,7 @@
 
 ## Technical Ecosystem
 
-### ** AI, Data Science & Machine Learning**
+### AI, Data Science & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -49,7 +50,7 @@
   <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### ** Web & Software Engineering**
+### Web & Software Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -71,7 +72,7 @@
   <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### ** Database, BI & Tools**
+### Database, BI & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -92,6 +93,21 @@
 * **🏥 Healthcare Vision**: Developed a **VGG16-based** Chest X-Ray classification system with 91% accuracy, featuring a real-time **Streamlit** dashboard.
 * **📄 Research RAG Assistants**: Scaled multiple RAG applications (ChartScholar, ResearchRagChat) using **LlamaIndex and FAISS** on AWS EC2.
 * **📱 Urmall.ng**: Architected a scalable e-commerce solution using the **MERN stack and Flutter** with integrated payment gateways.
+
+---
+
+---
+
+## Analytics & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amsadeeq&show_icons=true&theme=tokyonight&count_private=true" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsadeeq&layout=compact&theme=tokyonight&langs_count=10" height="195px" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsadeeq&theme=tokyonight" width="825px" alt="GitHub Streak" />
+</p>
 
 ---
 
