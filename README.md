@@ -158,9 +158,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsadeeq&theme=tokyonight" width="825px" alt="GitHub Streak" />
 </p>
 
-## Weekly Coding Activity
+### GitHub Activity Metrics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amsadeeq&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://metrics.lecoq.io/amsadeeq?template=classic&config.timezone=Asia/Kuala_Lumpur" width="100%" alt="GitHub Metrics" />
 </p>
 
 ---
