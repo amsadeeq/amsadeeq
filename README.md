@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsadeeq&label=Profile%20views&color=0e75b6&style=flat" alt="amsadeeq" /> </p>
 
-
+###  My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amsadeeq/amsadeeq/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineering+%26+Data+Science;Explainable+AI+(XAI)+Researcher;Generative+AI+%26+RAG+Specialist;Full+Stack+MERN+%26+Mobile+Developer;MLOps+%26+Cloud+Architecture" alt="Typing SVG" />
