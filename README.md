@@ -14,7 +14,7 @@
 
 ---
 
-## 📈 Professional Impact at a Glance
+## Professional Impact at a Glance
 
 | Metric | Detail |
 | :--- | :--- |
