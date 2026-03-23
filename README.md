@@ -2,7 +2,11 @@
 ### **PhD Researcher | AI & Machine Learning Engineer | Full-Stack Developer (Web & Mobile)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsadeeq&label=Profile%20views&color=0e75b6&style=flat" alt="amsadeeq" /> </p>
----
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amsadeeq&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineering+%26+Data+Science;Explainable+AI+(XAI)+Researcher;Generative+AI+%26+RAG+Specialist;Full+Stack+MERN+%26+Mobile+Developer;MLOps+%26+Cloud+Architecture" alt="Typing SVG" />
@@ -63,7 +67,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### ** Mobile App Development**
+### Mobile App Development
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -111,19 +115,6 @@
 
 ---
 
-## Analytics & Impact
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amsadeeq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsadeeq&layout=compact&theme=tokyonight&langs_count=10" alt="Top Langs" />
-</p>
-
----
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amsadeeq&" alt="amsadeeq" /></p>
-
----
 
 ## Connect With Me
 
