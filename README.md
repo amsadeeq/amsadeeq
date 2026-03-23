@@ -73,7 +73,7 @@
 * **Institution:** Gombe State University, Nigeria 
 * **Completed:** September 2018
 * **Honours:** **First Class Honour (4.54 CGPA)**
-* **Thesis:** *Heuristic Analysis of SQL Injection Attacks on Website Applications* [cite: 64]
+* **Thesis:** *Heuristic Analysis of SQL Injection Attacks on Website Applications*
 * **Supervisor:** Dr. Adamu Hussaini 
 
 ---
