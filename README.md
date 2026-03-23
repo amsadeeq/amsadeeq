@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsadeeq&label=Profile%20views&color=0e75b6&style=flat" alt="amsadeeq" /> </p>
 
-###  My Contribution Snake
+####  Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/amsadeeq/amsadeeq/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
@@ -158,7 +158,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsadeeq&theme=tokyonight" width="825px" alt="GitHub Streak" />
 </p>
 
-### Weekly Coding Activity
+## Weekly Coding Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amsadeeq&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
