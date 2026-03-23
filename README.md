@@ -2,10 +2,10 @@
 ### **PhD Researcher | AI & Machine Learning Engineer | Full-Stack Developer (Web & Mobile)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsadeeq&label=Profile%20views&color=0e75b6&style=flat" alt="amsadeeq" /> </p>
+
+###  My Contribution Snake
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amsadeeq&theme=tokyonight&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/amsadeeq/amsadeeq/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
