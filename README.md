@@ -14,6 +14,18 @@
 
 ---
 
+## 📈 Professional Impact at a Glance
+
+| Metric | Detail |
+| :--- | :--- |
+| **Academic Standing** | PhD Researcher @ Universiti Teknologi Malaysia |
+| **Experience** | 2+ Years Building and Deploying End-to-End AI Solutions, 3+ Years Building and Deploying Web & Mobile App |
+| **Specialization** | Explainable AI (XAI), GenAI & Computer Vision |
+| **Model Performance** | Achieved up to 91% Accuracy in Medical Imaging (VGG16) |
+| **Engineering Lead** | Former TechLead orchestrating scalable technology solutions |
+
+---
+
 ## Summary
 
 <table border="0">
@@ -87,6 +99,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+###  Weekly Coding Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amsadeeq&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
 ---
