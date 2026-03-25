@@ -1,5 +1,5 @@
 # Hi! I'm Abubakar Sadiq Muhammad
-### **PhD Researcher | AI & Machine Learning Engineer | Full-Stack Developer (Web & Mobile)**
+### **Researcher | AI & Machine Learning Engineer | Full-Stack Developer (Web & Mobile)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsadeeq&label=Profile%20views&color=0e75b6&style=flat" alt="amsadeeq" /> </p>
 
