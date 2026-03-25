@@ -35,7 +35,7 @@
         <blockquote>"I believe AI should not just be powerful, but explainable and accessible. My goal is to build intelligent systems that solve complex problems while remaining transparent and trustworthy for the end-user."</blockquote>
       </p>
       <p align="left">
-        I am a <b>Data Scientist and AI Engineer</b> with a Master's in Data Science and over 2 years of experience delivering end-to-end intelligent systems. Currently, I am a <b>PhD Researcher at Universiti Teknologi Malaysia (UTM)</b> specializing in <b>Explainable AI (XAI) and Computer Vision</b>.
+        I am a <b>Data Scientist and AI Engineer</b> with a Master's in Data Science and over 2 years of experience delivering end-to-end intelligent systems. Currently, I am a <b>Researcher at Universiti Teknologi Malaysia (UTM)</b> specializing in <b>Explainable AI (XAI) and Computer Vision</b>.
       </p>
       <p align="left">
         My expertise spans from training deep learning models and architecting <b>RAG pipelines</b> to building scalable <b>MERN stack</b> web applications and <b>Flutter</b> mobile apps. I am passionate about creating transparent AI solutions that have a real-world impact.
