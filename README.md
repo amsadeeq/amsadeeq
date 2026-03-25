@@ -18,7 +18,7 @@
 
 | Metric | Detail |
 | :--- | :--- |
-| **Academic Standing** | PhD Researcher @ Universiti Teknologi Malaysia |
+| **Academic Standing** | Researcher @ Universiti Teknologi Malaysia |
 | **Experience** | 2+ Years Building and Deploying End-to-End AI Solutions, 3+ Years Building and Deploying Web & Mobile App |
 | **Specialization** | Explainable AI (XAI), GenAI & Computer Vision |
 | **Model Performance** | Achieved up to 91% Accuracy in Medical Imaging (VGG16) |
