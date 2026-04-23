@@ -18,7 +18,7 @@
 
 | Metric | Detail |
 | :--- | :--- |
-| **Academic Standing** | Researcher @ Universiti Teknologi Malaysia |
+
 | **Experience** | 2+ Years Building and Deploying End-to-End AI Solutions, 3+ Years Building and Deploying Web & Mobile App |
 | **Specialization** | Explainable AI (XAI), GenAI & Computer Vision |
 | **Model Performance** | Achieved up to 91% Accuracy in Medical Imaging (VGG16) |
@@ -35,7 +35,7 @@
         <blockquote>"I believe AI should not just be powerful, but explainable and accessible. My goal is to build intelligent systems that solve complex problems while remaining transparent and trustworthy for the end-user."</blockquote>
       </p>
       <p align="left">
-        I am a <b>Data Scientist and AI Engineer</b> with a Master's in Data Science and over 2 years of experience delivering end-to-end intelligent systems. Currently, I am a <b>Researcher at Universiti Teknologi Malaysia (UTM)</b> specializing in <b>Explainable AI (XAI) and Computer Vision</b>.
+        I am a <b>Data Scientist and AI Engineer</b> with a Master's in Data Science and over 2 years of experience delivering end-to-end intelligent systems. Currently, I am a <b>Researcher at Universiti Teknologi Malaysia (UTM)</b> specialising in <b>Explainable AI (XAI) and Computer Vision</b>.
       </p>
       <p align="left">
         My expertise spans from training deep learning models and architecting <b>RAG pipelines</b> to building scalable <b>MERN stack</b> web applications and <b>Flutter</b> mobile apps. I am passionate about creating transparent AI solutions that have a real-world impact.
@@ -52,14 +52,7 @@
 
 ##  Academic Evolution & Research Roadmap
 
-> From a First-Class foundation in Computer Science to cutting-edge Doctoral research in Explainable AI (XAI), my journey is defined by a commitment to technical excellence and academic rigour.
-
-###  Current Milestone: PhD in Computer Science
-* **Institution:** Universiti Teknologi Malaysia (UTM)
-* **Commencement:** March 23, 2025 (Exactly 1 year today!)
-* **Focus Area:** Intersection of **Explainable AI (XAI)** and **Computer Vision**
-* **Core Objective:** Developing frameworks to enhance the transparency and faithfulness of object detection models
-* **Supervisor:** Ts. Dr. Chan Weng Howe
+> From a First-Class foundation in Computer Science to cutting-edge Explainable AI (XAI), my journey is defined by a commitment to technical excellence and academic rigour.
 
 ### The Foundation: M.Sc. in Data Science
 * **Institution:** Universiti Teknologi Malaysia (UTM)
@@ -166,7 +159,6 @@
 
 ##  Highlighted Projects
 
-* Explainable AI (XAI): Researching causal frameworks for faithful evidence grounding in Computer Vision models.
 * Agentic Workflows: Designing autonomous systems that utilise tool-calling and LLMs to automate complex KPI reporting.
 * Production ML: Implementing robust MLOps pipelines (Docker, Kubernetes) to transition models from experiments to operational services.
 * Agentic AI Ecosystem: Built an autonomous agent suite using **n8n, LangChain, and LangGraph** for real-time news summarisation and automated KPI reporting.
