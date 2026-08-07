@@ -1,5 +1,5 @@
 # Hi! I'm Abubakar Sadiq Muhammad
-### **Data Scientist | AI/ML Engineer | MLOps Engineer | DevOps Engineer| Full-Stack Developer (Web -MERN & Mobile -Flutter Dart) |**
+### **Data Scientist | AI/ML Engineer | MLOps/DevOps Engineer | Full-Stack Developer (Web -MERN & Mobile -Flutter Dart) |**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsadeeq&label=Profile%20views&color=0e75b6&style=flat" alt="amsadeeq" /> </p>
 
